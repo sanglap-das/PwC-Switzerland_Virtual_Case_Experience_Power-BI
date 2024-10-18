@@ -27,7 +27,6 @@
   - Customers with shorter tenures and month-to-month contracts are particularly vulnerable to churn.
 
   **Support Tickets:**
-  - A total of 2,955 technical tickets and 3,621 administrative tickets indicates potential dissatisfaction with customer service or technical issues,    
-    contributing to churn.
+  - A total of 2,955 technical tickets and 3,621 administrative tickets indicates potential dissatisfaction with customer service or technical issues,    contributing to churn.
 
 These insights suggest retention issues are most prevalent among newer customers, those on month-to-month contracts, and those using electronic checks. Addressing these areas could significantly reduce churn.
