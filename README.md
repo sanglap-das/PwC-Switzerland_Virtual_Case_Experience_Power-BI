@@ -52,3 +52,43 @@ Before you start working on our dashboard, the Retention Manager at PhoneNow pro
 - Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
 
 - Demographic info about customers – gender, age range, and if they have partners and dependents
+
+Click **[here](https://www.novypro.com/?Popup=memberProject&Data=1729207647217x596020361408739800)** for Live and Interactive Report
+
+<p align="center">
+    <img src="https://github.com/sanglap-das/PwC-Switzerland_Virtual_Case_Experience_Power-BI/blob/main/README_Contents/Task_3_Report_Page_1.jpg" alt="Customer Churn Risk Analysis Page 1" style="width: 80%"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/sanglap-das/PwC-Switzerland_Virtual_Case_Experience_Power-BI/blob/main/README_Contents/Task_3_Report_Page_2.jpg" alt="Customer Churn Risk Analysis Page 2" style="width: 80%"/>
+</p>
+
+#### Key Insights_Telecom Churn and Retention Analysis :
+ **1. Customer Churn Rate:**
+  - The overall churn rate stands at 26.58%, indicating a substantial portion of the customer base is discontinuing services.
+
+ **2. Demographic Distribution:**
+  - Gender: Among the 7,032 customers, the distribution is nearly equal, with 50.24% female and 49.76% male.
+  - Senior Citizens: 16.24% of the customer base are senior citizens, potentially influencing service preferences and churn.
+  - Dependents: 29.85% of customers have dependents, which may affect their service requirements.
+
+  **3. Customer Tenure:**
+  - The average tenure is 32 months.
+  - Churn is notably higher for customers with less than 1 year of tenure, indicating early-stage retention challenges.
+    
+  **4. Payment Methods:**
+  - Electronic Check is the most used payment method, while Credit Card is the least. The average auto-pay charge is approximately $3,075.
+
+  **5. Contract Types:**
+  - Month-to-month contracts have the highest churn rate at 89%, whereas two-year contracts show the lowest churn at 3%.
+
+  **6. Services Subscribed:**
+  - 90.33% of customers subscribe to phone services.
+  - Churn is significantly higher among those with Fiber Optic Internet at 69.03%.
+
+  **7. Risk of Churn:**
+  - 1,318 high-risk customers have been identified, with an estimated average revenue loss of $74 per month due to churn.
+  - Customers with shorter tenures and month-to-month contracts are particularly vulnerable to churn.
+
+  **8. Support Tickets:**
+  - A total of 2,955 technical tickets and 3,621 administrative tickets indicates potential dissatisfaction with customer service or technical issues, contributing to churn.
