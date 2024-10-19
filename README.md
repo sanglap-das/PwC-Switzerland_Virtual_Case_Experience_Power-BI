@@ -3,7 +3,7 @@
 ## Project Overview
 This project is part of the [PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=zYi2CnpbWjhcS7sAk), demonstrating how digital tools are used for data visualization, automation, data cleansing, and more, addressing typical business challenges. The project showcases Power BI dashboards on Call Centre Trends, Customer Retention, and Diversity & Inclusion, offering actionable insights for various business operations and strategic planning. These insights help PwC Switzerland and its clients improve operational efficiency, enhance customer loyalty, and support a more inclusive workplace.
 
-## Task 2: Call Centre Trends
+## Task 2: Call Centre Trends [Live and Interactive Report](https://www.novypro.com/?Popup=memberProject&Data=1729203955676x793836461397119000)
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
 **Possible KPIs include (to get you started, but not limited to):**
@@ -23,7 +23,7 @@ Click **[here](https://www.novypro.com/?Popup=memberProject&Data=1729203955676x7
     <img src="https://github.com/sanglap-das/PwC-Switzerland_Virtual_Case_Experience_Power-BI/blob/main/README_Contents/Task_2_Report_Page_2.jpg" alt="Call Centre Trends Page 2" style="width: 80%"/>
 </p>
 
-#### Key Insights_Call Centre Trends :
+### Key Insights_Call Centre Trends :
 **1. Total Call Volume :** The call center handled 5,000 calls in the analyzed period.
 
 **2. Customer Satisfaction (CSAT) :** The overall CSAT score is 50%, with a distribution of ratings where:
@@ -42,7 +42,7 @@ Click **[here](https://www.novypro.com/?Popup=memberProject&Data=1729203955676x7
   - Issue Resolved : 73% of issues were resolved.
   - Calls Answered : 81% of calls were answered.
 
-## Task 3: Telecom Churn and Retention Analysis
+## Task 3: Telecom Churn and Retention Analysis [Live and Interactive Report](https://www.novypro.com/?Popup=memberProject&Data=1729207647217x596020361408739800)
 Before you start working on our dashboard, the Retention Manager at PhoneNow provides you with these inputs:
 
 - Customers who left within the last month
@@ -63,7 +63,7 @@ Click **[here](https://www.novypro.com/?Popup=memberProject&Data=1729207647217x5
     <img src="https://github.com/sanglap-das/PwC-Switzerland_Virtual_Case_Experience_Power-BI/blob/main/README_Contents/Task_3_Report_Page_2.jpg" alt="Customer Churn Risk Analysis Page 2" style="width: 80%"/>
 </p>
 
-#### Key Insights_Telecom Churn and Retention Analysis :
+### Key Insights_Telecom Churn and Retention Analysis :
  **1. Customer Churn Rate:**
   - The overall churn rate stands at 26.58%, indicating a substantial portion of the customer base is discontinuing services.
 
