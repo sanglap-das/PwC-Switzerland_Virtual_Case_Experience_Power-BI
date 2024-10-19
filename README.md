@@ -3,7 +3,7 @@
 ## Project Overview
 This project is part of the [PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=zYi2CnpbWjhcS7sAk), demonstrating how digital tools are used for data visualization, automation, data cleansing, and more, addressing typical business challenges. The project showcases Power BI dashboards on Call Centre Trends, Customer Retention, and Diversity & Inclusion, offering actionable insights for various business operations and strategic planning. These insights help PwC Switzerland and its clients improve operational efficiency, enhance customer loyalty, and support a more inclusive workplace.
 
-## Task 2: Call Centre Trends [Live and Interactive Report](https://www.novypro.com/?Popup=memberProject&Data=1729203955676x793836461397119000)
+## Task 2: Call Centre Trends [[Click Here]](https://www.novypro.com/?Popup=memberProject&Data=1729203955676x793836461397119000)
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
 **Possible KPIs include (to get you started, but not limited to):**
@@ -42,7 +42,7 @@ Click **[here](https://www.novypro.com/?Popup=memberProject&Data=1729203955676x7
   - Issue Resolved : 73% of issues were resolved.
   - Calls Answered : 81% of calls were answered.
 
-## Task 3: Telecom Churn and Retention Analysis [Live and Interactive Report](https://www.novypro.com/?Popup=memberProject&Data=1729207647217x596020361408739800)
+## Task 3: Telecom Churn and Retention Analysis [[Click Here]](https://www.novypro.com/?Popup=memberProject&Data=1729207647217x596020361408739800)
 Before you start working on our dashboard, the Retention Manager at PhoneNow provides you with these inputs:
 
 - Customers who left within the last month
@@ -92,3 +92,48 @@ Click **[here](https://www.novypro.com/?Popup=memberProject&Data=1729207647217x5
 
   **8. Support Tickets:**
   - A total of 2,955 technical tickets and 3,621 administrative tickets indicates potential dissatisfaction with customer service or technical issues, contributing to churn.
+
+## Task 4: Diversity and Inclusion Dashboard [[Click Here]](https://www.novypro.com/?Popup=memberProject&Data=1729209390508x118456016194758540)
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+
+At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
+
+Here is a hint: Calculating the following measures could help to define proper KPIs:
+
+- number of men
+- number of women
+- number of leavers
+- % employees promoted (FY21)
+- % of women promoted
+- % of hires men
+- % of hires women
+- % turnover 
+- Average performance rating: men
+- Average Performance rating: women
+
+Click **[here](https://www.novypro.com/?Popup=memberProject&Data=1729209390508x118456016194758540)** for Live and Interactive Report
+
+<p align="center">
+    <img src="https://github.com/sanglap-das/PwC-Switzerland_Virtual_Case_Experience_Power-BI/blob/main/README_Contents/Task_4_Report_Page_2.jpg" alt="Diversity and Inclusion Page 1" style="width: 80%"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/sanglap-das/PwC-Switzerland_Virtual_Case_Experience_Power-BI/blob/main/README_Contents/Task_4_Report_Page_3.jpg" alt="Diversity and Inclusion Page 2" style="width: 80%"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/sanglap-das/PwC-Switzerland_Virtual_Case_Experience_Power-BI/blob/main/README_Contents/Task_4_Report_Page_4.jpg" alt="Diversity and Inclusion Page 3" style="width: 80%"/>
+</p>
+
+### Key Insights_Diversity and Inclusion Dashboard :
+**1. Gender Distribution :** Out of 500 employees, the workforce remains male-dominated, with 59% males and 41% females.
+
+**2. Nationality :** The majority of employees are from Switzerland, Germany, France, and Italy, representing the company's key regions of operation.
+
+**3. Hiring Trends :** In FY20, 66 new employees were hired, with a gender ratio of 48% male and 52% female. Most hires were in the 20-29 and 30-39 age groups, with fewer employees hired over 40.
+
+**4. Promotion and Performance :** Promotions in FY21 reflected a 65% male and 35% female split, indicating some gender disparity. The average performance rating across all levels was 2.41, with a marginal difference between females (2.42) and males (2.41).
+
+**5. Attrition:** Of the 47 employees who left in FY20, 55% were male and 45% were female. High-performing male employees showed a tendency to leave the company.
+
+This analysis provides an overview of **Pharma Group AG's** gender distribution, hiring, promotions, and attrition trends.
